@@ -1,11 +1,11 @@
 # README
 
 
-# This is my repository
+# this is my repository
 
-### My name is CAT
+### my name is egor
 
-**I'm javascript developer.** *There is Example of my code:*
+**i'm javascript developer.** *There is Example of my code:*
 
 ```javascript
 let isAlive = true;
@@ -20,7 +20,7 @@ function code() {
 }
 ```
 
-This is Unordered list:
+this is Unordered list:
 
 * [my facebook](#)
 * [my website](#)
