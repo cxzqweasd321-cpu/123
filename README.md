@@ -5,6 +5,8 @@
 
 ### my name is egor
 
+![cat](https://cataas.com/cat?width=300)
+
 **i'm javascript developer.** *There is Example of my code:*
 
 ```javascript
