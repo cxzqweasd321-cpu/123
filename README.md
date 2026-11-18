@@ -1,13 +1,12 @@
 # README
 
+# This is my repository
 
-# this is my repository
-
-### my name is egor
+### My name is CAT
 
 ![cat](https://cataas.com/cat?width=300)
 
-**i'm javascript developer.** *There is Example of my code:*
+**I'm javascript developer.** *There is Example of my code:*
 
 ```javascript
 let isAlive = true;
@@ -22,8 +21,26 @@ function code() {
 }
 ```
 
-this is Unordered list:
+This is Unordered list:
 
 * [my facebook](#)
 * [my website](#)
 * [my telegram](#)
+
+## About my skills
+
+###### Small note about my stack
+
+**I write clean code** *and learn every day*
+
+This is my other list:
+
+* HTML & CSS
+* JavaScript
+  * Node.js
+
+```javascript
+let status = 'ready to work';
+```
+
+[my github](#)
